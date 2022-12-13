@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+
+@media (min-width: 850px){
+    header{
+        position: fixed;
+        width: 100%;
+    }
+
+    
+
+   
+
+}
